@@ -1,0 +1,47 @@
+svg {
+    width: 300px;
+    margin: auto auto;
+}
+
+.demo {
+    stroke-dashoffset: -5981;
+    stroke-dasharray: 5981;
+    animation-name: draw-monkey;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+.cls-1 {
+    stroke-dashoffset: -582;
+    stroke-dasharray: 582;
+    animation: draw-logo 2s;
+    animation-fill-mode: forwards;
+}
+
+.letters {
+    animation: logo-letters 1s;
+    animation-delay: 1s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+@keyframes draw-logo {
+    from {
+        stroke-dashoffset: -582;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes logo-letters {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+

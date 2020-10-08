@@ -1,0 +1,23 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.75 91.66">
+  <defs>
+    <style>
+      .cls-1{fill:none;stroke:#272525;stroke-miterlimit:10}.cls-2{font-size:36px;fill:#272525;font-family:Oswald-Regular,Oswald}
+    </style>
+  </defs>
+  <path class="cls-1" d="M0 75.26l183.32.39M140.8.85l42.52 74.8M124.66 27.62L140.8.85M108.38.75l16.28 26.87M92.5 28.25L108.38.75M76.75.25l15.75 28M60.5 28.5L76.75.25M44.63.75L60.5 28.5M.63 75.26l44-74.51M102.5 65.83l17.33-29.33"/>
+  <text class="cls-2" transform="translate(30.67 65.12)">
+    B
+  </text>
+  <text class="cls-2" transform="translate(52.94 65.12)">
+    E
+  </text>
+  <text class="cls-2" transform="translate(74.89 65.12)">
+    N
+  </text>
+  <text class="cls-2" transform="translate(120.26 65.12)">
+    G
+  </text>
+  <text transform="translate(19.69 88.22)" font-size="12" fill="#272525" font-family="Oswald-Regular,Oswald">
+    <tspan letter-spacing="-.01em">W</tspan><tspan x="8.63" y="0">ebsite Design &amp; Development</tspan>
+  </text>
+</svg>
